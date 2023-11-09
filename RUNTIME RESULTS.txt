@@ -1,0 +1,30 @@
+SM4 average runtime: 0.0271 ms
+Optimized SM4 average runtime: 0.0166 ms
+
+SM4 average runtime: 0.0093 ms
+Optimized SM4 average runtime: 0.0056 ms
+
+SM4 average runtime: 0.0134 ms
+Optimized SM4 average runtime: 0.0079 ms
+
+SM4 average runtime: 0.0089 ms
+Optimized SM4 average runtime: 0.007 ms
+
+SM4 average runtime: 0.0123 ms
+Optimized SM4 average runtime: 0.0069 ms
+
+SM4 average runtime: 0.01 ms
+Optimized SM4 average runtime: 0.0066 ms
+
+SM4 average runtime: 0.0117 ms
+Optimized SM4 average runtime: 0.0054 ms
+
+SM4 average runtime: 0.0122 ms
+Optimized SM4 average runtime: 0.0036 ms
+
+SM4 average runtime: 0.0127 ms
+Optimized SM4 average runtime: 0.0043 ms
+
+SM4 average runtime: 0.0117 ms
+Optimized SM4 average runtime: 0.0063 ms
+
