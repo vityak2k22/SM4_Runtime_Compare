@@ -6,13 +6,13 @@
 #include <chrono>
 #include <sstream>
 
-const double COUNT_EX = 1.;
+const double COUNT_EX = 100.;
 
 using namespace std;
 using namespace chrono;
 
 //=========================================================================================================
-string Input_from_File(ifstream& in);						// Внесення всього тексту у рядок (враховуючи переноси рядка)
+string Input_from_File(ifstream& in);						// Г‚Г­ГҐГ±ГҐГ­Г­Гї ГўГ±ГјГ®ГЈГ® ГІГҐГЄГ±ГІГі Гі Г°ГїГ¤Г®ГЄ (ГўГ°Г ГµГ®ГўГіГѕГ·ГЁ ГЇГҐГ°ГҐГ­Г®Г±ГЁ Г°ГїГ¤ГЄГ )
 //=========================================================================================================
 namespace SM4_Consts {
 	const BYTE SBox[256] = {
